@@ -1,0 +1,68 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 996px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 800px;
+  min-height: 520px;
+  margin: 96px auto 60px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0 30px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 0 11px 0 24px;
+}
+
+.u-section-1 .u-rotation-parent-1 {
+  width: 71px;
+  height: 111px;
+  margin: 44px auto 0;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 111px;
+  color: rgb(0, 0, 0) !important;
+  height: 71px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 256px;
+  height: 256px;
+  background-image: url("https://cdn.icon-icons.com/icons2/562/PNG/512/play-button_icon-icons.com_53922.png");
+  background-position: 50% 50%;
+  margin: 24px auto 0;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 24px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+}
